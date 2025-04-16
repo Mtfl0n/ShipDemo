@@ -52,7 +52,8 @@ Skybox environment
 GLSL shaders
 
 
-📚 Dependencies
+📚 Dependencies\
+
 OpenGL 3.3+
 
 GLFW
