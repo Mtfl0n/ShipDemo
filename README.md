@@ -32,6 +32,8 @@ GLSL shaders
 
 📚 Dependencies
 OpenGL 3.3+
+
 GLFW
+
 GLAD
 GLM
